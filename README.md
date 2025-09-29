@@ -50,7 +50,6 @@ python generate_dataset.py
 python src/train.py
 
 ### Step 4: Launch the Web Application
-```bash
 python src/app.py
 
 ## Technical Requirements
