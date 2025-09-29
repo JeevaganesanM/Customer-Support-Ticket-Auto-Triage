@@ -31,27 +31,6 @@ The system uses a synthetic dataset that mirrors real-world support tickets with
 | `Priority`   | Urgency level of the ticket              | Categorical String|
 | `Timestamp`  | Date and time of ticket creation         | Datetime         |
 
-## 🛠️ How to Run This Project (Step-by-Step)
-
-### Prerequisites
-- Python 3.8 or higher
-- `pip` package manager
-
-### Step 1: Install Dependencies
-```bash
-pip install -r requirements.txt
-
-### Step 2: Generate Synthetic Dataset
-```bash
-python generate_dataset.py
-
-### Step 3: Train the ML Model
-```bash
-python src/train.py
-
-### Step 4: Launch the Web Application
-python src/app.py
-
 ## Technical Requirements
 - **Python**: 3.8+
 - **Key Libraries**: `scikit-learn`, `pandas`, `numpy`, `NLTK`/`SpaCy`, `TensorFlow`/`PyTorch`
@@ -71,3 +50,25 @@ Model performance will be rigorously assessed using the following metrics and th
 | **Precision & Recall (30%)** | Critical for identifying positive cases and minimizing false positives/negatives for each specific ticket category. |
 | **F1-Score (20%)**   | The harmonic mean of precision and recall, providing a balanced measure of the model's accuracy. |
 | **Latency (10%)**    | Measures the time taken for real-time classification, ensuring quick response times in operational environments. |
+
+## 🛠️ How to Run This Project (Step-by-Step)
+
+### Prerequisites
+- Python 3.8 or higher
+- `pip` package manager
+
+### Step 1: Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### Step 2: Generate Synthetic Dataset
+```bash
+python generate_dataset.py
+
+### Step 3: Train the ML Model
+```bash
+python src/train.py
+
+### Step 4: Launch the Web Application
+```bash
+python src/app.py
