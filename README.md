@@ -51,11 +51,11 @@ Model performance will be rigorously assessed using the following metrics and th
 | **F1-Score (20%)**   | The harmonic mean of precision and recall, providing a balanced measure of the model's accuracy. |
 | **Latency (10%)**    | Measures the time taken for real-time classification, ensuring quick response times in operational environments. |
 
-## 🛠️ How to Run This Project (Step-by-Step)
-
 ## 🖼️ Project Output
 
 ![Ticket Classification Demo](images/Output.png)
+
+## 🛠️ How to Run This Project (Step-by-Step)
 
 ### Prerequisites
 - Python 3.8 or higher
