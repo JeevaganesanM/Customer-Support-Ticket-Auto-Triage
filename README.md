@@ -53,6 +53,9 @@ Model performance will be rigorously assessed using the following metrics and th
 
 ## 🛠️ How to Run This Project (Step-by-Step)
 
+### Example Output Image
+(Output.png)
+
 ### Prerequisites
 - Python 3.8 or higher
 - `pip` package manager
@@ -72,7 +75,3 @@ python src/train.py
 ### Step 4: Launch the Web Application
 ```bash
 python src/app.py
-
-
-### Example Output Image
-![Optimized VRP Route](https://github.com/JeevaganesanM/Vehicle-Routing-Problem-Deap/blob/main/Output.png)
