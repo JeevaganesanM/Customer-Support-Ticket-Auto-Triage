@@ -53,7 +53,7 @@ Model performance will be rigorously assessed using the following metrics and th
 
 ## 🖼️ Project Output
 
-![Ticket Classification Demo](images/Output.png)
+![Ticket Classification Demo](Output.png)
 
 ## 🛠️ How to Run This Project (Step-by-Step)
 
