@@ -72,3 +72,8 @@ python src/train.py
 ### Step 4: Launch the Web Application
 ```bash
 python src/app.py
+
+
+## Output:
+<img width="1919" height="680" alt="image" src="https://github.com/user-attachments/assets/a3fb828c-8455-49db-b589-574046050f3f" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/42e3caa1-0d62-4155-bb04-851907494778" />
