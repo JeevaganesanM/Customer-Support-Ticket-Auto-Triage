@@ -53,8 +53,9 @@ Model performance will be rigorously assessed using the following metrics and th
 
 ## 🛠️ How to Run This Project (Step-by-Step)
 
-### Example Output Image
-(Output.png)
+## 🖼️ Project Output
+
+![Ticket Classification Demo](images/Output.png)
 
 ### Prerequisites
 - Python 3.8 or higher
